@@ -1,0 +1,7 @@
+/* pages/logs/index.wxss */
+ .tunnel-text {
+    width: 100%;
+    line-height: 52px;
+    font-size: 34rpx;
+    color: #007aff;
+  }

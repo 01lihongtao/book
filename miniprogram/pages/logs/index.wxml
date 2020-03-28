@@ -1,0 +1,11 @@
+<!--pages/logs/index.wxml--> 
+<!-- 导航跳转是用 navigator   外面嵌套的必须是view标签 -->
+<view>
+
+ <navigator url="../detail/detail" open-type="navigate" class="uploader-text">
+      <button>详情</button>
+    </navigator>
+</view>
+<!-- <view wx:for="{{array}}"> {{index}}:{{item}} </view> -->
+
+
